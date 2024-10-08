@@ -51,7 +51,13 @@ To run the application, use the following command:
 streamlit run app.py
 ```
 
+
 Once the application is running, it will open in your default web browser, and you can start testing your internet speed.
+
+## Deployed Link
+
+You can access the SpeedSense application at the following link: [SpeedSense](https://speedsense.streamlit.app/)
+
 
 ## Contributing
 
