@@ -19,7 +19,7 @@ def check_speed():
         # Display a placeholder for the countdown
         countdown_placeholder = st.empty()
 
-        # Set a countdown of 5 seconds (you can adjust this time)
+        # Set a countdown of 35 seconds (you can adjust this time)
         countdown_time = 35
 
         # Simulate the countdown
